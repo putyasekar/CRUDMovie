@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUDMovie</string>
+    <string name="title">Insert Title</string>
+    <string name="desc">Insert Description</string>
+    <string name="insert">Insert</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="desc_movie">Description Movie</string>
+    <string name="update">Update</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="detail_desc">Detail Description</string>
+</resources>
